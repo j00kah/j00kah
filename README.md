@@ -1,5 +1,5 @@
 @@ -0,0 +1,10 @@
-- 👋 Hello, I'm Joe Casquejo
+- 👋 Hello, I'm Joe.
 - 👀 I’m interested in ... Network Automation
 - 🌱 I’m currently learning ... Python
 - 📫 How to reach me ...
