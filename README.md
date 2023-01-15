@@ -1,8 +1,7 @@
 @@ -0,0 +1,10 @@
-- 👋 Hi, I’m @j00kah
+- 👋 Hello, I'm Joe Casquejo
 - 👀 I’m interested in ... Network Automation
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Python
 - 📫 How to reach me ...
 
 <!---
